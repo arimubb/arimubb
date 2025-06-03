@@ -1,7 +1,7 @@
 <div align="center">
 <img hight="100" width="400" alt="GIF" align="center" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWo2b3Q0MDIxdzRsdHJvdnA0eXR6MzN5ejhoYXd5aTFwZm0yZXZ6NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yyVph7ANKftIs/giphy.webp">
 <h1 align="center">Hi 👋, I'm Alim</h1>
-<h3 align="center">I am a Java developer with growing expertise in building efficient and user-friendly applications, focused on delivering innovative solutions.</h3>
+ <h3 align="center">I am a Flutter developer with growing expertise in building efficient and user-friendly applications, focused on delivering innovative solutions.</h3>
 
 # Contact Me :
 
@@ -33,14 +33,12 @@ If you want to contact me with any question, I'm always in touch😉.
 <img hight="400" width="500" alt="GIF" align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGI1M2UxZTB1bTZzNGk5ZjlzNGJrdXhzcmRmdnBjaTFjMDRkcnkzbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11KzOet1ElBDz2/giphy.webp">
 
 ### - Learning :
-- ✨ Java
+- ✨ Dart & Flutter
 - ✨ English
-- ✨ Data Structures & Algorithms
 
 ### - Hobbies : 
-- ✨ Watching Anime
 - ✨ Reading Light Novels
-- ✨ Sports(Boxing, CrossFit)
+- ✨ Chess
 
 </br>
 </br>
