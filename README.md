@@ -1,5 +1,5 @@
 <div align="center">
-<img hight="100" width="400" alt="GIF" align="center" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWo2b3Q0MDIxdzRsdHJvdnA0eXR6MzN5ejhoYXd5aTFwZm0yZXZ6NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yyVph7ANKftIs/giphy.webp">
+<img hight="100" width="400" alt="GIF" align="center" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHFwODNvYzZiY2Nva2Fja2Q2OHU2eno3eXNjdjRsMGZ0ZzlzdzY4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y2iqFF4t0Qdzi/giphy.gif">
 <h1 align="center">Hi 👋, I'm Alim</h1>
  <h3 align="center">I am a Flutter developer with growing expertise in building efficient and user-friendly applications, focused on delivering innovative solutions.</h3>
 
