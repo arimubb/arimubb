@@ -32,10 +32,6 @@ If you want to contact me with any question, I'm always in touch😉.
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGI1M2UxZTB1bTZzNGk5ZjlzNGJrdXhzcmRmdnBjaTFjMDRkcnkzbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11KzOet1ElBDz2/giphy.webp">
 
-### - Learning :
-- ✨ Dart & Flutter
-- ✨ English
-
 ### - Hobbies : 
 - ✨ Reading Light Novels
 - ✨ Chess
