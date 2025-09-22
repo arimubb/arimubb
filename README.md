@@ -1,7 +1,7 @@
 <div align="center">
 <img hight="100" width="400" alt="GIF" align="center" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHFwODNvYzZiY2Nva2Fja2Q2OHU2eno3eXNjdjRsMGZ0ZzlzdzY4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y2iqFF4t0Qdzi/giphy.gif">
 <h1 align="center">Hi 👋, I'm Alim</h1>
- <h3 align="center">I am a Flutter developer with growing expertise in building efficient and user-friendly applications, focused on delivering innovative solutions.</h3>
+ <h3 align="center">I am a QA, QC Engineer with growing expertise in ensuring the delivery of efficient and user-friendly applications, focused on providing innovative and high-quality solutions. I am also constantly learning new technologies and methodologies to expand my skills and stay on top of the latest industry trends.</h3>
 
 # Contact Me :
 
